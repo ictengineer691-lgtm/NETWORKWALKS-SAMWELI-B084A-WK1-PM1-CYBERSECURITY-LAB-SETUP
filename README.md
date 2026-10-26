@@ -1,4 +1,4 @@
-# NETWORKWALKS-SAMWELI-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
+# NETWORKWALKS-SAMWELI-B084A-WK1-PM1-CYBERSECURITY-LAB-SETUP
 Cybersecurity Lab Environment Setup
 
 Setting up a virtual lab for cybersecurity learning and ethical hacking practice.
