@@ -40,7 +40,7 @@ I plan to use it for:
 
 Important: I will only test systems that I own or have permission to test.
 
-## 🏗️ Lab Architecture
+Lab Architecture
 
 The lab uses VirtualBox to run Kali Linux on my computer.
 
@@ -66,7 +66,7 @@ Other virtual machines can be added to the same network later to practise securi
          10.0.0.3 onwards
 
 
-## ⚙️ Lab Configuration
+Lab Configuration
 
 | Component | Configuration |
 |---|---|
@@ -82,15 +82,14 @@ Other virtual machines can be added to the same network later to practise securi
 
 *Note: These are the intended lab settings. The final values should match the actual configuration shown in your screenshots. The gateway and DNS settings must also match your working network configuration.*
 
-## 🪜 Lab Setup Procedure
+Lab Setup Procedure
 
-### Step 1: Install 7-Zip
+Step 1: Install 7-Zip
 
 I used 7-Zip to extract the Kali Linux virtual machine files when needed.
 
 Download: https://www.7-zip.org/download.html
-
-### Step 2: Install VirtualBox
+Step 2: Install VirtualBox
 
 I installed Oracle VirtualBox to create and manage virtual machines on my computer.
 
