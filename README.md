@@ -194,35 +194,14 @@ Record your actual results below after completing the tests.
 
 ## 🐞 Problems Encountered and Solutions
 
-This section will contain the problems I faced during the setup and how I solved them.
+### Problem: Loss of Internet Connection
 
-### Problem 1: Network Connectivity
+After configuring the virtual network in VirtualBox, I experienced a loss of internet connectivity in Kali Linux.
 
-Changing the IP address manually can sometimes affect internet access.
+**Solution:** I used the `nmcli` command to inspect and manage the network connection in Kali Linux. I checked the network connection settings and worked on restoring internet access.
 
-To troubleshoot this issue, I would check:
+**Lesson Learned:** I learned how to use `nmcli` to troubleshoot network connectivity and how important it is to verify internet access after configuring a virtual network.
 
-1. Whether the virtual machine is connected to the correct NAT Network.
-2. Whether the IP address and subnet mask are correct.
-3. Whether the default gateway is reachable.
-4. Whether DNS resolution is working.
-5. Whether the network connection is active in Kali Linux.
-
-I would also check the connection name before using any `nmcli` command because connection names can be different on each system.
-
-### Problem 2: Virtualization Error
-
-If VirtualBox cannot start the virtual machine because hardware virtualization is disabled, I would check the BIOS/UEFI settings.
-
-Possible solution:
-
-1. Restart the computer.
-2. Enter the BIOS/UEFI settings.
-3. Enable Intel VT-x or the available hardware virtualization option.
-4. Save the settings and restart.
-5. Start the Kali Linux virtual machine again.
-
-*Only include these problems in the final report if you actually experienced them. Otherwise, replace this section with the real problems you encountered.*
 
 ## 💡 What I Learned
 
