@@ -157,13 +157,12 @@ Step 6: Create a Virtual Machine Snapshot
 
 After setting up Kali Linux, I created a snapshot to save a clean copy of the virtual machine's current state.
 
-Example snapshot name:
+"Clean Kali"
 
-`Clean Kali - Network Setup`
+The snapshot below can help me return to the saved state if a future experiment causes problems.
 
-The snapshot can help me return to the saved state if a future experiment causes problems.
+<img width="950" height="476" alt="image" src="https://github.com/user-attachments/assets/205d9e22-9b6a-4873-b322-aa9150c29018" />
 
-<img width="956" height="466" alt="clipboard-drag-drop png" src="https://github.com/user-attachments/assets/27f862c2-3470-488b-992a-624b2cf115ca" />
 
 
 Lab Verification
