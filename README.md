@@ -248,13 +248,13 @@ I will use it to improve my practical cybersecurity skills and will not test sys
 - [Kali Linux](https://www.kali.org/get-kali/)
 - [Nmap](https://nmap.org/)
 
-## 👤 Author
+ Author
 
-**Name:** Samweli Kinanda
+Name:Samweli Kinanda
 
-**Field:** Information Technology and Cybersecurity
+Field: Information Technology and Cybersecurity
 
-**GitHub:** Add your GitHub profile link here.
+GitHub: https://github.com/ictengineer691-lgtm/NETWORKWALKS-SAMWELI-B084A-WK1-PM1-CYBERSECURITY-LAB-SETUP/tree/main.
 
 LinkedIn: Add your LinkedIn profile link here.
 
