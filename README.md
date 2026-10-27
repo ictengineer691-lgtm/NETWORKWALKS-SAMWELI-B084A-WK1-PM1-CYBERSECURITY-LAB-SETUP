@@ -48,7 +48,7 @@ The Kali Linux machine connects to a NAT Network with the address range "10.0.0.
 
 Other virtual machines can be added to the same network later to practise security testing between machines.
 
-  Network Design
+  ##Network Design
 
 
           My Computer
