@@ -203,6 +203,9 @@ After configuring the virtual network in VirtualBox, I experienced a loss of int
 
 **Lesson Learned:** I learned how to use `nmcli` to troubleshoot network connectivity and how important it is to verify internet access after configuring a virtual network.
 
+<img width="957" height="482" alt="internet problem" src="https://github.com/user-attachments/assets/a6119940-d96a-42b3-a4ff-e1c3dbb3599c" />
+
+
 
 ## 💡 What I Learned
 
