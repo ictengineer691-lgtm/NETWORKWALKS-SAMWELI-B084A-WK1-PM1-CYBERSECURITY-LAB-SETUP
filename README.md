@@ -252,7 +252,7 @@ Field: Information Technology and Cybersecurity
 
 GitHub: https://github.com/ictengineer691-lgtm/NETWORKWALKS-SAMWELI-B084A-WK1-PM1-CYBERSECURITY-LAB-SETUP/tree/main.
 
-LinkedIn: https://www.linkedin.com/in/samweli-kinanda-06510136a/.
+LinkedIn: https://lnkd.in/p/dnMBT3_E.
 
 Project Information
 
