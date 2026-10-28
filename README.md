@@ -246,13 +246,13 @@ I will use it to improve my practical cybersecurity skills and will not test sys
 
  Author
 
-Name:Samweli Kinanda
+Name: Samweli Kinanda
 
 Field: Information Technology and Cybersecurity
 
 GitHub: https://github.com/ictengineer691-lgtm/NETWORKWALKS-SAMWELI-B084A-WK1-PM1-CYBERSECURITY-LAB-SETUP/tree/main.
 
-LinkedIn: Add your LinkedIn profile link here.
+LinkedIn: https://www.linkedin.com/in/samweli-kinanda-06510136a/.
 
 Project Information
 
