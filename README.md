@@ -48,7 +48,7 @@ The Kali Linux machine connects to a NAT Network with the address range "10.0.0.
 
 Other virtual machines can be added to the same network later to practise security testing between machines.
 
-  ##Network Design
+  Network Design
 
 
           My Computer
@@ -149,7 +149,7 @@ The planned configuration was:
 
 A consistent IP address makes it easier to identify the Kali machine during future lab exercises.
 
-screenshot of the network settings or the output of the "ip a" command.
+screenshot of the network settings.
 
 <img width="953" height="467" alt="Screenshot 2026-10-26 190722" src="https://github.com/user-attachments/assets/f161ab4c-1ba9-4ac0-83d3-6c7ffa8f40e9" />
 
@@ -157,7 +157,6 @@ Step 6: Create a Virtual Machine Snapshot
 
 After setting up Kali Linux, I created a snapshot to save a clean copy of the virtual machine's current state.
 
-"Clean Kali"
 
 The snapshot below can help me return to the saved state if a future experiment causes problems.
 
@@ -181,71 +180,69 @@ I used basic commands to check the network and security tools.
 
 The tests should be run and their actual results recorded. A successful ping to an IP address does not always mean DNS is working, so both should be tested separately.
 
-### Example Results
 
-Record your actual results below after completing the tests.
+I record my actual results below after completing the tests.
 
 - Kali IP address: `10.0.0.2/24`
 - Default gateway: `10.0.0.1`
 - DNS server: `8.8.8.8`
 - Internet connection: Record the actual result
-- Nmap installation: Record the actual result
 - Snapshot: Record whether restoration was successful
 
-## 🐞 Problems Encountered and Solutions
+ Problems Encountered and Solutions
 
-### Problem: Loss of Internet Connection
+ Problem: Loss of Internet Connection
 
 After configuring the virtual network in VirtualBox, I experienced a loss of internet connectivity in Kali Linux.
 
-**Solution:** I used the `nmcli` command to inspect and manage the network connection in Kali Linux. I checked the network connection settings and worked on restoring internet access.
+Solution: I used the `nmcli` command to inspect and manage the network connection in Kali Linux. I checked the network connection settings and worked on restoring internet access.
 
-**Lesson Learned:** I learned how to use `nmcli` to troubleshoot network connectivity and how important it is to verify internet access after configuring a virtual network.
+Lesson Learned: I learned how to use `nmcli` to troubleshoot network connectivity and how important it is to verify internet access after configuring a virtual network.
 
 <img width="957" height="482" alt="internet problem" src="https://github.com/user-attachments/assets/a6119940-d96a-42b3-a4ff-e1c3dbb3599c" />
 
 
 
-## 💡 What I Learned
+ What I Learned
 
 Through this project, I learned the importance of preparing a proper environment before starting cybersecurity testing.
 
-### 1. Virtual Machines
+ 1. Virtual Machines
 
 I learned how to use VirtualBox to run Kali Linux on my computer without replacing Windows.
 
-### 2. Network Configuration
+ 2. Network Configuration
 
 I learned about IP addresses, subnet masks, gateways, DNS servers, and virtual network adapters.
 
-### 3. NAT Network
+ 3. NAT Network
 
 I learned that a NAT Network can connect multiple virtual machines and provide external network access.
 
-### 4. Network Testing
+ 4. Network Testing
 
 I learned how to use commands such as `ip a`, `ping`, and `nslookup` to check network settings and connectivity.
 
-### 5. Snapshots
+ 5. Snapshots
 
 I learned that snapshots are useful for saving a working state before performing experiments.
 
-### 6. Documentation
+ 6. Documentation
 
 I learned that screenshots, commands, test results, and clear documentation help make a technical project easier to understand.
 
-## 🔐 Security and Ethical Use
+ Security and Ethical Use
 
 This lab is for educational purposes and authorized security testing only.
 
 I will use it to improve my practical cybersecurity skills and will not test systems without permission.
 
-## 🔗 Tools and Resources
+ Tools and Resources
 
 - [7-Zip](https://www.7-zip.org/download.html)
 - [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - [Kali Linux](https://www.kali.org/get-kali/)
-- [Nmap](https://nmap.org/)
+
 
  Author
 
